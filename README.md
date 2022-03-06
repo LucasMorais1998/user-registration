@@ -24,11 +24,41 @@
 
 <br/>
 
-# 🔎 Confira
+# 📷 Confira
 
 <br/>
 <p align="center"> 
   <image src="https://im2.ezgif.com/tmp/ezgif-2-8e6d709f54.gif"> 
   <image src="./github/image.jpg" width="650"> 
 </p>
+    
+ <br/>
 
+# ⚙ Instale
+<p> 
+  
+1- Clone o projeto:
+```sh
+git clone https://github.com/LucasMorais1998/CRUD-sql-node.git
+```
+  
+2- Instale as dependências:
+```sh
+yarn 
+```
+
+3- Configure o banco de dados e preencha o arquivo .env.local
+```sh
+'mysql'|'mariadb'|'sqlite'|'postgres'|'mssql',
+```
+
+4- Crie a tabela com:
+```sh
+yarn sequelize db:migrate
+```
+
+5- Após a configuração do banco de dados, inicie o servidor:
+```sh
+yarn dev
+```
+</p>
