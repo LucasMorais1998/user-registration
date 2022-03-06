@@ -29,5 +29,6 @@
 <br/>
 <p align="center"> 
   <image src="https://im2.ezgif.com/tmp/ezgif-2-8e6d709f54.gif"> 
+  <image src="./github/image.jpg" width="650"> 
 </p>
 
