@@ -8,10 +8,14 @@
 
   <br/>
   <p align="center">Esse é um projeto do curso técnico que consistia em construir um CRUD utilizando um banco de dados relacional e NodeJs.</p>
-  <p align="center">O projeto é um sistema simples que realiza as funções de um CRUD, adiciona um usuário ao banco, busca um ou mais usuários no banco, atualiza um usuário no banco e deleta um usuário no banco. Foi seguido o padrão de arquitetura MVC, e ao decorrer do desenvolvimento, foi a aplicação foi sendo testado via Insomnia.</p>
 </p>
 
 <br/>
+<br/>
+
+# ✏ Descrição
+<p>O projeto é um sistema simples que realiza as funções de um CRUD, adiciona um usuário ao banco, busca um ou mais usuários no banco, atualiza um usuário no banco e deleta um usuário no banco. Foi seguido o padrão de arquitetura MVC. Este projeto é apenas back-end, para o teste da aplicação foi utilizado o Insomnia.</p>
+
 <br/>
 
 # 🚀 Tecnologias
