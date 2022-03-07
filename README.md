@@ -31,6 +31,7 @@
 <br/>
 <p align="center"> 
   <image src="./github/exp.gif"> 
+  <image src="./github/gif2.gif"> 
   <image src="./github/image.jpg" width="600"> 
 </p>
     
