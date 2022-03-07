@@ -1,8 +1,6 @@
 <br />
 <p align="center">
-  <a href="http://www.freepik.com">
     <img src="./github/start.png" alt="Logo" width="250" >
-  </a>
 
   <h3 align="center">CRUD - MySQL e Nodejs</h3>
 
